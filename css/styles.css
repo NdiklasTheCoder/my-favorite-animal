@@ -4,10 +4,12 @@
 }
 
 .author {
-    color: salmon;
+    color: goldenrod;
     text-transform: capitalize;
+    text-decoration-color: gold;
 }
 
 p.author {
-     font-size: 12px;
+     font-size: 16px;
+     color: green;
 }
