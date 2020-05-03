@@ -3,15 +3,11 @@
     text-decoration-color: fuchsia;
 }
 
-.author {
-    color: goldenrod;
-    text-transform: capitalize;
-    text-decoration-color: gold;
-}
 
-p.author {
-    font-size: 16px;
-    color: green;
+.review {
+   border-style: ridge;
+   background-color: magenta;
+   text-overflow: ellipsis;
 }
 
 .text-sort {
@@ -27,3 +23,8 @@ p.author {
 p.text-sort{
     font-size: 18px;
 }
+
+.cat-climate {
+    background-color: yellow;
+  }
+    
