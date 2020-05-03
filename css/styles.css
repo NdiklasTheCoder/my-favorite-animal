@@ -1,9 +1,11 @@
 .intro {
     font-style: italic;
+    text-decoration-color: fuchsia;
 }
 
 .author {
-    color: red;
+    color: salmon;
+    text-transform: capitalize;
 }
 
 p.author {
